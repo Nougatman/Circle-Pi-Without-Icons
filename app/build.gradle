@@ -14,7 +14,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.material.dashboard.candybar.sample.nougatman.iconpack.circlepi"
+        applicationId "ru.nougatman.iconpack.circlepi"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1

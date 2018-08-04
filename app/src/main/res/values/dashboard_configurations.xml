@@ -144,7 +144,7 @@
     * just put your wallpaper app package name here
     * example: com.dm.wallpaper.board.demo
     * <string name="wallpaper_json">com.dm.wallpaper.board.demo</string> -->
-    <string name="wallpaper_json">https://raw.githubusercontent.com/Nougatman/candybar-sample/master/wallpaper_sample.json</string>
+    <string name="wallpaper_json">https://raw.githubusercontent.com/Nougatman/Circle-Pi-Without-Icons/master/4K_cloud_wallpapers/wallpaper_sample.json</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->

@@ -3,7 +3,7 @@
 
     <!-- FOR ATOM LAUNCHER -->
 
-    <packageName>com.material.dashboard.candybar.sample.nougatman.iconpack.circlepi</packageName>
+    <packageName>ru.nougatman.iconpack.circlepi</packageName>
     <versionName>1.0.0</versionName>
     <versionCode>100</versionCode>
     <themeName>Theme Name</themeName>
