@@ -1,11 +1,10 @@
 {
     "Categories": 
         [
-	    {
-		"name": "Otther"
-	    }
+	    	{
+				"name": "Otther"
+	    	}
         ],
-    
 	"Wallpapers":
         [
 			{
@@ -14,147 +13,146 @@
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_1_th.png",
 				"name": "1",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_2.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_2_th.png",
 				"name": "2",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_3.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_3_th.png",
 				"name": "3",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circl Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_4.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_4_th.png",
 				"name": "4",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_5.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_5_th.png",
 				"name": "5",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_6.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_6_th.png",
 				"name": "6",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_7.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_7_th.png",
 				"name": "7",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_8.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_8_th.png",
 				"name": "8",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_9.jpg",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_9_th.jpg",
 				"name": "9",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_10.jpg",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_10_th.jpg",
 				"name": "10",
                 "category": "Other"
-			},
+				},
             {
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_11.jpg",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_11_th.jpg",
 				"name": "11",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_12.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_12_th.png",
 				"name": "12",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_13.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_13_th.png",
 				"name": "13",
 			"category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_14.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_14_th.png",
 				"name": "14",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_15.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_15_th.png",
 				"name": "15",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_16.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_16_th.png",
 				"name": "16",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_17.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_17_th.png",
 				"name": "17",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_18.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_18_th.png",
 				"name": "18",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_19.jpg",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_19_th.jpg",
 				"name": "19",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_20.jpg",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_20_th.jpg",
 				"name": "20",
                 "category": "Other"
-			},
-		{
+				},
+			{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_21.jpg",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_21_th.jpg",
 				"name": "21",
                 "category": "Other"
-			}
+				}
 		]
 }
-
