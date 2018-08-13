@@ -99,7 +99,7 @@
 				"name": "13",
 			"category": "Other"
 			},
-			{
+		{
 				"author": "Circle Pi",
 				"url": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_14.png",
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_14_th.png",
@@ -154,7 +154,7 @@
 				"thumbUrl": "https://github.com/Nougatman/Circle-Pi-Without-Icons/raw/master/4K_cloud_wallpapers/circle_pi_21_th.jpg",
 				"name": "21",
                 "category": "Other"
-			},
+			}
 		]
 }
 
